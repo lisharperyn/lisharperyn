@@ -5,7 +5,7 @@
 |-- I'm improving my Java development skills
 |-- I like learning new things and doing fun things with it 
       /What am I aiming today?
-    |-- I'm looking for a junior in software development
+    |-- I'm looking for a junior position in software development
     |-- Good reads
     |-- Challenging projects
     |-- Studying with maximimizing output mindset 
