@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello,+everyone!!!;My+name's+Steffan+Amorim;I'm+a+full-stack+developer+and+a+data+analyst." alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello,+everyone!!!;My+name's+Steffan+Amorim;I'm+a+full-stack+developer" alt="typing intro">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lisharperyn&label=Profile%20views&color=0e75b6&style=flat-square" alt="lisharperyn" /></p>
 
