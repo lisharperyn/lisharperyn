@@ -7,7 +7,7 @@
     /Me, Steffani, a developer from Brazil
 |-- I'm currently working with Data Analysis and BI
 |-- I like how computers work
-|-- I'm improving my Java development skills
+|-- I'm improving my java development skills
 |-- I like learning new things and doing fun things with it 
       /What I'm aiming for?
     |-- I'm looking for a junior position in software development
