@@ -5,17 +5,17 @@
 
 <pre align="left">
     /Me, Steffani, a developer from Brazil
-|-- I'm working with Data Analysis and BI by now
+|-- I'm currently working with Data Analysis and BI
 |-- I like how computers work
 |-- I'm improving my Java development skills
 |-- I like learning new things and doing fun things with it 
-      /What am I aiming today?
+      /What I'm aiming for?
     |-- I'm looking for a junior position in software development
     |-- Good reads
     |-- Challenging projects
-    |-- Studying with maximimizing output mindset 
+    |-- Studying with a focus on maximizing output 
             /Fun facs about me
-         |-- 💬 I'm a polyglot, I can speak four languages
+         |-- 💬 I'm a polyglot who speaks four languages
          |-- 📫 How to reach me: lisharperyn77@outlook.com
          |-- ⚡ I love challenges 
 </pre>
