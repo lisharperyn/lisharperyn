@@ -9,17 +9,17 @@
 ---
 
 ### 👩‍💻 About Me
-[cite_start]Software Engineer with 2 years of experience at the **Ministry of Defense**, specializing in the end-to-end data lifecycle[cite: 90, 101]. [cite_start]I focus on building robust Business Intelligence solutions integrated with **GRC (Governance, Risk, and Compliance)** principles[cite: 102].
+Software Engineer with 2 years of experience at the **Ministry of Defense**, specializing in the end-to-end data lifecycle. I focus on building robust Business Intelligence solutions integrated with **GRC (Governance, Risk, and Compliance)** principles.
 
-- [cite_start]🎓 **Education:** B.S. in Software Engineering (UNINTER, 2022-2025)[cite: 117, 120].
-- [cite_start]🌍 **International Experience:** 3 years living and studying in Spain[cite: 14, 152].
-- [cite_start]🗣️ **Polyglot:** Fluent in Portuguese, Spanish, Catalan, and Advanced English[cite: 92, 140, 141, 142, 143, 144].
+- 🎓 **Education:** B.S. in Software Engineering (UNINTER, 2022-2025).
+- 🌍 **International Experience:** 3 years living and studying in Spain.
+- 🗣️ **Polyglot:** Fluent in Portuguese, Spanish, Catalan, and Advanced English.
 - 🛠️ **Current Focus:** Advanced Data Modeling (Star Schema), Defensive DAX, and ETL Optimization.
 
 ---
 
 ### 🚀 Featured Project
-**[Alpha Corp - BI Implementation](LINK_DO_SEU_REPOSITORIO)** *Financial BI solution with a focus on data auditing and operational gap identification. Created with Power BI (M & DAX) and managed via Jira.*
+**[Alpha Corp - BI Implementation](https://github.com/lisharperyn/BI-Implementation-AlphaCorp)** *Financial BI solution with a focus on data auditing and operational gap identification. Created with Power BI (M & DAX) and managed via Jira.*
 
 ---
 
