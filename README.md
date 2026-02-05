@@ -53,8 +53,8 @@ Software Engineer with 2 years of experience at the **Ministry of Defense**, spe
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lisharperyn&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lisharperyn&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisharperyn&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lisharperyn&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 ---
