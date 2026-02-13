@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Analysis+%26+BI+Specialist;Power+Platform+%26+GRC+Focused" alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Analyst+%26+DBA;Power+Platform+%26+GRC+Focused" alt="typing intro">
 </p>
 
 <p align="center">
@@ -9,22 +9,16 @@
 ---
 
 ### 👩‍💻 About Me
-Software Engineer with 2 years of experience at the **Ministry of Defense**, specializing in the end-to-end data lifecycle. I focus on building robust Business Intelligence solutions integrated with **Power Platform** automation and **GRC** (Governance, Risk, and Compliance) principles.
+**Software Engineer**, Data Analyst and **Database Administrator** with 2 years of experience at the **Ministry of Defense**. I specialize in the end-to-end data lifecycle, from database maintenance and architecture to automated Business Intelligence solutions integrated with **GRC** principles.
 
 - 🎓 **Education:** B.S. in Software Engineering (UNINTER, 2022-2025).
 - 🌍 **International Experience:** 3 years living and studying in Spain.
 - 🗣️ **Polyglot:** Fluent in Portuguese, Spanish, Catalan, and Advanced English.
 - 🛠️ **Current Focus:**
+  - **Database Administration (DBA):** Management and maintenance of **MySQL** and **Oracle** databases, focusing on query optimization, data integrity, and server performance.
   - **Advanced Power Platform:** Designing automated ecosystems with Power Automate and Power Apps.
-  - **Complex ETL:** Expert use of **M Language** for advanced data transformation and cleaning.
-  - **Data Governance:** Implementing Row-Level Security (RLS) and LGPD compliance in restricted environments.
-  - **Full-Stack Data:** Leveraging **Python** as my primary tool for data-driven solutions, while maintaining strong proficiency in **Java** for backend architectures.
-
----
-
-### 🚀 Featured Project
-**[Alpha Corp - BI Implementation](https://github.com/lisharperyn/BI-Implementation-AlphaCorp)** 
-*Financial BI solution with a focus on data auditing and operational gap identification. Managed via Jira.*
+  - **Complex ETL:** Expert use of **Python (Pandas)** and **M Language** for advanced data transformation.
+  - **Governance & Security:** Implementing RLS and LGPD compliance in high-security intranet environments.
 
 ---
 
@@ -37,16 +31,15 @@ Software Engineer with 2 years of experience at the **Ministry of Defense**, spe
   <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-power-apps&logoColor=white" alt="Power Apps" />
   <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-0559C9?style=for-the-badge" alt="DAX" />
   <img src="https://img.shields.io/badge/M_Language-Power_Query-217346?style=for-the-badge" alt="M Language" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </p>
 
-**Backend & Database**
+**Database & Backend**
 <p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
 ---
