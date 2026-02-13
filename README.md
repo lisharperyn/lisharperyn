@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-**Software Engineer**, Data Analyst and **Database Administrator** with 2 years of experience at the **Ministry of Defense**. I specialize in the end-to-end data lifecycle, from database maintenance and architecture to automated Business Intelligence solutions integrated with **GRC** principles.
+**Software Engineer**, **Data Analyst** and **Database Administrator** with 2 years of experience at the **Ministry of Defense**. I specialize in the end-to-end data lifecycle, from database maintenance and architecture to automated Business Intelligence solutions integrated with **GRC** principles.
 
 - 🎓 **Education:** B.S. in Software Engineering (UNINTER, 2022-2025).
 - 🌍 **International Experience:** 3 years living and studying in Spain.
