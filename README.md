@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lisharperyn&label=Profile%20views&color=0e75b6&style=flat-square" alt
-    ="lisharperyn" />
+  <img src="https://komarev.com/ghpvc/?username=lisharperyn&label=Profile%20views&color=0e75b6&style=flat-square" alt="lisharperyn" />
 </p>
 
 ---
@@ -19,7 +18,7 @@ Software Engineer with 2 years of experience at the **Ministry of Defense**, spe
   - **Advanced Power Platform:** Designing automated ecosystems with Power Automate and Power Apps.
   - **Complex ETL:** Expert use of **M Language** for advanced data transformation and cleaning.
   - **Data Governance:** Implementing Row-Level Security (RLS) and LGPD compliance in restricted environments.
-  - **Full-Stack Data:** Bridging Java backends with data-driven frontend architectures.
+  - **Full-Stack Data:** Leveraging **Python** as my primary tool for data-driven solutions, while maintaining strong proficiency in **Java** for backend architectures.
 
 ---
 
@@ -43,9 +42,9 @@ Software Engineer with 2 years of experience at the **Ministry of Defense**, spe
 
 **Backend & Database**
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
@@ -63,7 +62,6 @@ Software Engineer with 2 years of experience at the **Ministry of Defense**, spe
 </p>
 
 ---
-
 
 ### 📫 Connect with me:
 <p align="left">
