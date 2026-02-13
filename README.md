@@ -14,7 +14,8 @@ Software Engineer with 2 years of experience at the **Ministry of Defense**, spe
 - 🎓 **Education:** B.S. in Software Engineering (UNINTER, 2022-2025).
 - 🌍 **International Experience:** 3 years living and studying in Spain.
 - 🗣️ **Polyglot:** Fluent in Portuguese, Spanish, Catalan, and Advanced English.
-- 🛠️ **Current Focus:** - **Advanced Power Platform:** Designing automated ecosystems with Power Automate and Power Apps.
+- 🛠️ **Current Focus:**
+  - **Advanced Power Platform:** Designing automated ecosystems with Power Automate and Power Apps.
   - **Complex ETL:** Expert use of **M Language** for advanced data transformation and cleaning.
   - **Data Governance:** Implementing Row-Level Security (RLS) and LGPD compliance in restricted environments.
   - **Full-Stack Data:** Bridging Java backends with data-driven frontend architectures.
@@ -52,11 +53,16 @@ Software Engineer with 2 years of experience at the **Ministry of Defense**, spe
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisharperyn&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lisharperyn&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisharperyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisharperyn&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisharperyn&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
+
 
 ### 📫 Connect with me:
 <p align="left">
