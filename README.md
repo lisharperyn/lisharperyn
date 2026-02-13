@@ -9,13 +9,16 @@
 ---
 
 ### 👩‍💻 About Me
-Software Engineer with 2 years of experience at the **Ministry of Defense**, specializing in the end-to-end data lifecycle. I focus on building robust Business Intelligence solutions integrated with **GRC (Governance, Risk, and Compliance)** principles.
+Software Engineer with a solid 2-year trajectory at the **Ministry of Defense**, specializing in the end-to-end data lifecycle. I build scalable Business Intelligence solutions integrated with **GRC (Governance, Risk, and Compliance)** principles and automated workflows.
 
 - 🎓 **Education:** B.S. in Software Engineering (UNINTER, 2022-2025).
-- 🌍 **International Experience:** 3 years living and studying in Spain.
+- 🌍 **International Experience:** 3 years living in Spain, fostering high intercultural adaptability.
 - 🗣️ **Polyglot:** Fluent in Portuguese, Spanish, Catalan, and Advanced English.
-- 🛠️ **Current Focus:** Advanced Data Modeling (Star Schema), Defensive DAX, and ETL Optimization.
-
+- 🛠️ **Current Focus:** - **Advanced Power Platform:** Designing automated ecosystems with Power Automate and Power Apps.
+  - **Data Engineering:** Implementation of Star Schema/Snowflake modeling and ETL Pipeline optimization.
+  - **Governance & Security:** Row-Level Security (RLS) and LGPD/GDPR compliance for sensitive environments.
+  - **Full-Stack Integration:** Bridging Java (Spring Boot) backends with data-driven frontend architectures.
+    
 ---
 
 ### 🚀 Featured Project
@@ -25,12 +28,13 @@ Software Engineer with 2 years of experience at the **Ministry of Defense**, spe
 
 ### 🛠️ Languages and Tools
 
-**Data & Business Intelligence**
+**Data & Power Platform**
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-power-apps&logoColor=white" alt="Power Apps" />
   <img src="https://img.shields.io/badge/DAX-Data_Analysis_Expressions-0559C9?style=for-the-badge" alt="DAX" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 **Backend & Database**
