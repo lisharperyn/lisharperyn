@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lisharperyn&label=Profile%20views&color=0e75b6&style=flat-square" alt="lisharperyn" />
+  <img src="https://komarev.com/ghpvc/?username=lisharperyn&label=Profile%20views&color=0e75b6&style=flat-square" alt
+    ="lisharperyn" />
 </p>
 
 ---
@@ -53,8 +54,8 @@ Software Engineer with 2 years of experience at the **Ministry of Defense**, spe
 
 ### 📊 Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisharperyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisharperyn&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lisharperyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lisharperyn&layout=compact&theme=dracula" />
 </p>
 
 <p align="center">
