@@ -15,10 +15,16 @@
 - 🌍 **International Experience:** 3 years living and studying in Spain.
 - 🗣️ **Polyglot:** Fluent in Portuguese, Spanish, Catalan, and Advanced English.
 - 🛠️ **Current Focus:**
-  - **Database Administration (DBA):** Management and maintenance of **MySQL** and **Oracle** databases, focusing on query optimization, data integrity, and server performance.
+  - **Database Administration (DBA):** Management and maintenance of **MySQL** databases, focusing on query optimization, data integrity, and server performance.
+  - **Data Science & ML:** Leveraging **Python (Pandas, Scikit-learn)** for predictive analysis and automated data processing.
   - **Advanced Power Platform:** Designing automated ecosystems with Power Automate and Power Apps.
-  - **Complex ETL:** Expert use of **Python (Pandas)** and **M Language** for advanced data transformation.
-  - **Governance & Security:** Implementing RLS and LGPD compliance in high-security intranet environments.
+  - **Governance & Security:** Implementing RLS and LGPD compliance in restricted intranet environments.
+
+---
+
+### 🚀 Featured Project
+**[Alpha Corp - BI Implementation](https://github.com/lisharperyn/BI-Implementation-AlphaCorp)** 
+*Financial BI solution with a focus on data auditing and operational gap identification. Managed via Jira.*
 
 ---
 
@@ -33,13 +39,21 @@
   <img src="https://img.shields.io/badge/M_Language-Power_Query-217346?style=for-the-badge" alt="M Language" />
 </p>
 
-**Database & Backend**
+**Python Ecosystem & ML**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+</p>
+
+**Database, Backend & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
