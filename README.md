@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-**Software Engineer**, **Data Analyst** and **Database Administrator** with 2 years of experience at the **Ministry of Defense**. I specialize in the end-to-end data lifecycle, from database maintenance and architecture to automated Business Intelligence solutions integrated with **GRC** principles.
+**Software Engineer**, **Data Analyst** and **Database Administrator** with 2 years of experience at the **Ministry of Defense**. I specialize in the end-to-end data lifecycle, from database maintenance and architecture to automated **Business Intelligence** solutions integrated with **GRC** principles.
 
 - 🎓 **Education:** B.S. in Software Engineering (UNINTER, 2022-2025).
 - 🌍 **International Experience:** 3 years living and studying in Spain.
@@ -17,8 +17,8 @@
 - 🛠️ **Current Focus:**
   - **Database Administration (DBA):** Management and maintenance of **MySQL** databases, focusing on query optimization, data integrity, and server performance.
   - **Data Science & Analytics:** Leveraging **Python (Pandas, NumPy, Matplotlib, Seaborn)** for exploratory analysis and automated data processing.
-  - **Advanced Power Platform:** Designing automated ecosystems with Power Automate and Power Apps.
-  - **Governance & Security:** Implementing RLS and LGPD compliance in restricted intranet environments.
+  - **Advanced Power Platform:** Designing automated ecosystems with **Power Automate** and **Power Apps**.
+  - **Governance & Security:** Implementing **RLS** and **LGPD** compliance in restricted intranet environments.
 
 ---
 
