@@ -17,7 +17,7 @@
 - 🛠️ **Current Focus:**
   - **Database Administration (DBA):** Management and maintenance of **MySQL** databases, focusing on query optimization, data integrity, and server performance.
   - **Data Science & Analytics:** Leveraging **Python (Pandas, NumPy, Matplotlib, Seaborn)** for exploratory analysis and automated data processing.
-  - **Advanced Power Platform:** Designing automated ecosystems with **Power Automate** and **Power Apps**.
+  - **Advanced Power Platform:** Designing automated ecosystems with **Power BI**, **Power Automate** and **Power Apps**.
   - **Governance & Security:** Implementing **RLS** and **LGPD** compliance in restricted intranet environments.
 
 ---
