@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Analyst+%26+DBA;Power+Platform+%26+GRC+Focused" alt="typing intro">
+  <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Governance+and+BI+Analyst;Database+Administrator;Power+Platform+%26+GRC+Focused" alt="typing intro">
 </p>
 
 <p align="center">
@@ -9,21 +9,26 @@
 ---
 
 ### 👩‍💻 About Me
-**Software Engineer**, **Data Analyst** and **Database Administrator** with 2 years of experience at the **Ministry of Defense**. I specialize in the end-to-end data lifecycle, from database maintenance and architecture to automated **Business Intelligence** solutions integrated with **GRC** principles.
+**Software Engineer** and **Data Governance & BI Analyst** with a strong track record at the **Ministry of Defense** and in the **cybersecurity sector**. I specialize in architecting end-to-end intelligence solutions and establishing robust Data Governance frameworks. My expertise combines database administration, data quality rules configuration, and strategic analysis to ensure data lineage, integrity, and security (RLS) in mission-critical environments.
 
 - 🎓 **Education:** B.S. in Software Engineering (UNINTER, 2022-2025).
 - 🌍 **International Experience:** 3 years living and studying in Spain.
 - 🗣️ **Polyglot:** Fluent in Portuguese, Spanish, Catalan, and Advanced English.
 - 🛠️ **Current Focus:**
-  - **Database Administration (DBA):** Management and maintenance of **MySQL** databases, focusing on query optimization, data integrity, and server performance.
-  - **Data Science & Analytics:** Leveraging **Python (Pandas, NumPy, Matplotlib, Seaborn)** for exploratory analysis and automated data processing.
-  - **Advanced Power Platform:** Designing automated ecosystems with **Power BI**, **Power Automate** and **Power Apps**.
-  - **Governance & Security:** Implementing **RLS** and **LGPD** compliance in restricted intranet environments.
+  - **Data Governance & GRC:** Structuring data flows, configuring Data Quality rules, and ensuring compliance with **LGPD/GDPR** and **ISOs 27001 & 27701**.
+  - **Database Administration (DBA):** **MySQL** management, data cleansing, relational modeling, and server maintenance.
+  - **Advanced Power Platform:** Designing automated ecosystems and BI solutions with **Power BI**, **Power Automate**, and **Power Apps**, translating technical metrics into business language.
+  - **Data Science & Analytics:** Leveraging **Python (Pandas, NumPy)** for exploratory analysis and automated data processing.
 
 ---
 
-### 🚀 Featured Project
-**[Alpha Corp - BI Implementation](https://github.com/lisharperyn/BI-Implementation-AlphaCorp)** *Financial BI solution with a focus on data auditing and operational gap identification. Managed via Jira.*
+### 🚀 Featured Governance & BI Projects
+
+**1. [Alpha Corp - BI Implementation](https://github.com/lisharperyn/BI-Implementation-AlphaCorp)** 
+*Financial BI solution with a strict focus on Data Engineering, GRC, and Data Governance. Features deep data auditing, defensive logic (Row-Level Security), and Data Quality rules to ensure KPI accuracy in compliance with ISO standards and LGPD.*
+
+**2. [Choco Delight (Nestlé) - End-to-End Analytics](https://github.com/lisharperyn/BI-Implementation-ChocoDelight)** 
+*Comprehensive data solution incorporating strict Data Governance protocols for a multinational context. Applied advanced SQL and Power Query validation to clean the database, establishing clear data lineage and security measures to deliver high-quality, trustworthy insights.*
 
 ---
 
@@ -52,7 +57,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" />
