@@ -27,7 +27,7 @@
 **1. [Alpha Corp - BI Implementation](https://github.com/lisharperyn/BI-Implementation-AlphaCorp)** 
 *Financial BI solution with a strict focus on Data Engineering, GRC, and Data Governance. Features deep data auditing, defensive logic (Row-Level Security), and Data Quality rules to ensure KPI accuracy in compliance with ISO standards and LGPD.*
 
-**2. [Choco Delight (Nestlé) - End-to-End Analytics](https://github.com/lisharperyn/BI-Implementation-ChocoDelight)** 
+**2. [Choco Delight - End-to-End Analytics](https://github.com/lisharperyn/BI-Implementation-ChocoDelight)** 
 *Comprehensive data solution incorporating strict Data Governance protocols for a multinational context. Applied advanced SQL and Power Query validation to clean the database, establishing clear data lineage and security measures to deliver high-quality, trustworthy insights.*
 
 ---
