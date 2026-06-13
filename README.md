@@ -65,18 +65,6 @@
 
 ---
 
-### 📊 Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lisharperyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lisharperyn&layout=compact&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisharperyn&theme=dracula" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/steffani-amorim-b541791b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
