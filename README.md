@@ -18,7 +18,7 @@
   - **Data Governance & GRC:** Structuring data flows, configuring Data Quality rules, and ensuring compliance with **LGPD/GDPR** and **ISOs 27001 & 27701**.
   - **Database Administration (DBA):** **MySQL** management, data cleansing, relational modeling, and server maintenance.
   - **Advanced Power Platform:** Designing automated ecosystems and BI solutions with **Power BI**, **Power Automate**, and **Power Apps**, translating technical metrics into business language.
-  - **Data Science & Analytics:** Leveraging **Python (Pandas, NumPy)** for exploratory analysis and automated data processing.
+  - **Data Science & Analytics:** Leveraging **Python (Pandas, NumPy, Scikit-learn)** for exploratory analysis and automated data processing.
 
 ---
 
